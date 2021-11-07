@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300;700&family=Roboto:ital,wght@0,400;1,400;1,500&display=swap");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/navbar.css");
+@import url("components/footer.css");
+@import url("components/hiw.css");
+@import url("components/benefit.css");
+@import url("components/form.css");
+@import url("components/navbar2.css");
+@import url("components/box-article.css");
+@import url("components/teacher-index.css");
+@import url("components/box-article.css");
+
+body {
+	font family : 'Open Sans Condensed', sans-serif;
+	font size: 18px;
+	text-align: center
+}
+h1,h2,h3 {
+	font-family: 'Roboto', serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+.h1-form {
+  font-family: 'Roboto', serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 30px;
+}
+
+.img-circle {
+border-radius: 50%;
+}
+
+.team {
+  border: 2px solid #555;
+  border-radius: 1%;
+  margin-top: 150px;
+  margin-left: 11px;
+}
+
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+}
