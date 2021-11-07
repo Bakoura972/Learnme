@@ -7,6 +7,7 @@
 	font-weight: bold;
 	font-family: 'Roboto', sans-serif;
 	text-decoration: none;
+	cursor: pointer;
 }
 
 #login-navbar {
@@ -26,6 +27,7 @@
     font-weight: bold;
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
+	cursor: pointer;
 }
 
 .btn-white{
@@ -38,6 +40,7 @@
     text-decoration: none;
     border-style: solid;
     border-color: black;
+	cursor: pointer;
 }
 
 .btn-white-without-border{
