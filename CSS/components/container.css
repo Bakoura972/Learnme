@@ -3,12 +3,4 @@
 	margin: 0 auto;
 }
 
-.intro {
-	background-image: url(../../images-learnme/QA.jpg);
-	background-size: cover;
-  background-position: center;
-  text-align: center;
-  font-weight: lighter;
-  font-family: 'Roboto', sans-serif;
-  color: black;
-}
+
