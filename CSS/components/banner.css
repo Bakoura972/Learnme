@@ -54,3 +54,13 @@ body, html {
   margin-top: 5px;
   cursor: pointer;
 }
+
+.banner-intro {
+  background-image: url(../../images-learnme/QA.jpg);
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  font-weight: lighter;
+  font-family: 'Roboto', sans-serif;
+  color: black;
+}
